@@ -104,6 +104,7 @@ figure.roadmap figcaption{font-size:13.5px;color:var(--ink-soft);margin-top:10px
 .rm-legend{fill:none;stroke:var(--ink-soft);stroke-width:1;stroke-dasharray:5 4;}
 .rm-dotted{stroke:var(--ink);stroke-width:1.6;stroke-dasharray:1.5 3;fill:none;}
 .rm-arrow{stroke:var(--ink);stroke-width:1.6;fill:none;}
+.rm-arrow-dash{stroke:var(--ink);stroke-width:1.6;fill:none;stroke-dasharray:5 4;}
 .rm-head{fill:var(--ink);}
 .rm-h{font-family:var(--sans);font-weight:700;font-size:21px;fill:var(--ink);}
 .rm-i{font-family:var(--sans);font-style:italic;font-size:13px;fill:var(--ink);}
